@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82682106403",
+    "project_id": "dbchatapp-aa944",
+    "storage_bucket": "dbchatapp-aa944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82682106403:android:2c250b1fbec4d778b65796",
+        "android_client_info": {
+          "package_name": "com.example.msku_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82682106403-m42rfkf69pkji2u0imv81ckom75fe1ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR1PCsWPBbFf9yoeiHFwGkHTCDh9rtPGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82682106403-m42rfkf69pkji2u0imv81ckom75fe1ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
